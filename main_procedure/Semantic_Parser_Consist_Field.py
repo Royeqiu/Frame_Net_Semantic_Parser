@@ -1,0 +1,1 @@
+LEXICON_TEXT='lexicon'
